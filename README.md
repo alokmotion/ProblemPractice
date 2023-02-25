@@ -1,5 +1,17 @@
 # ProblemPractice
 
+<h2> Q2. Suppose you are given an array s[1..n] and a procedure reverse (s, i, j) which reverses the order of elements in a between positions i and j (both inclusive). What does the following sequence do, where 1 <= k <= n: </pre>
+  <pre> 
+reverse(s, 1, k) ;
+reverse(s, k + 1, n);
+reverse(s, l, n); </pre>
+
+(A) Rotates s left by k positions <br>
+(B) Leaves s unchanged <br>
+(C) Reverses all elements of s <br>
+(D) None of the above <br>
+
+</h2>
 
 
 Arrays
