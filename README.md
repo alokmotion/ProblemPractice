@@ -10,7 +10,7 @@ reverse(s, l, n); </pre>
 (B) Leaves s unchanged <br>
 (C) Reverses all elements of s <br>
 (D) None of the above <br>
-
+<a href="https://www.geeksforgeeks.org/gate-gate-cs-2000-question-38/" > solution </a>
 </h2>
 
 
